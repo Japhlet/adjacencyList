@@ -1,4 +1,4 @@
-package project05;
+package adajacencyList;
 /**
  * Path
  * 
