@@ -4,7 +4,7 @@ package adajacencyList;
  * 
  *   A simple method for tracking Paths in an adjacency list.
  *   
- *   @author Kanad Sengupta
+ *   @author Jeremy Morris
  *   @version 20121009
  */
 

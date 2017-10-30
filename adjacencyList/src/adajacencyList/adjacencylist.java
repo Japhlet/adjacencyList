@@ -4,7 +4,14 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.*;
 
-
+/**
+ * adjacencyList
+ * 
+ *   A simple project for calculating shortest distance using adjacency lists.
+ *   
+ *   @author Kanad Sengupta
+ *   @version 20121009
+ */
 public class adjacencylist {
 
 	public static void main(String[] args) throws IOException {
